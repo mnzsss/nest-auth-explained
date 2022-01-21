@@ -10,7 +10,8 @@ This repository has all code created and explained in series of posts that I wil
 
 ## Tutorial Posts
 
-- [Setup Project and Fastify Platform - NestJs with Passport #01](https://dev.to/mnzs/setup-project-and-fastify-platform-nestjs-with-passport-01-27jl)
+- [Setup Project and Fastify Platform](https://dev.to/mnzs/setup-project-and-fastify-platform-nestjs-with-passport-01-27jl)
+- [Database with Prisma ORM, Docker and Postgres](https://dev.to/mnzs/database-with-prisma-orm-docker-and-postgres-nestjs-with-passport-02-180l)
 
 Keep in development...
 
