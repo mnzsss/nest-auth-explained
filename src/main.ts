@@ -15,6 +15,7 @@ async function bootstrap() {
     }),
   );
 
-  await app.listen(3000);
+  // For use Docker you need set 0.0.0.0 for access app from others apps
+  await app.listen(3000, '0.0.0.0');
 }
 bootstrap();
